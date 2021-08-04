@@ -1,0 +1,22 @@
+{
+  "name": "havadurumunodejs",
+  "version": "1.0.0",
+  "description": "node js tutorials",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "ilayda",
+  "license": "ISC",
+  "dependencies": {
+    "create-index": "^2.6.0",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "index-modules": "^0.4.2",
+    "module-alias": "^2.2.2",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "server": "^1.0.34"
+  }
+}
